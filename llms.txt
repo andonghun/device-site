@@ -1,0 +1,21 @@
+# 기기테스트편
+
+> 모니터·키보드·마우스·마이크·웹캠·게임패드 브라우저 점검
+
+설치 없이 브라우저에서 하는 기기 테스트와, 테스트로 찾은 문제가 교환·보증 대상인지 보는 제조사 공식 기준 모음입니다. 테스트는 기기 안에서만 돌아가고 영상·소리·키 입력을 보내지 않습니다.
+
+## 테스트
+
+- [모니터 테스트](https://device.factpane.com/%EB%AA%A8%EB%8B%88%ED%84%B0-%ED%85%8C%EC%8A%A4%ED%8A%B8/): 단색 전체 화면으로 불량화소·빛샘·번인 확인, 해상도·화면 갱신 표시
+- [키보드 테스트](https://device.factpane.com/%ED%82%A4%EB%B3%B4%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8/): 눌린 키 표시, 채터링(50ms 안 재입력)과 동시 입력 개수
+- [마우스 테스트](https://device.factpane.com/%EB%A7%88%EC%9A%B0%EC%8A%A4-%ED%85%8C%EC%8A%A4%ED%8A%B8/): 버튼 5개·휠, 80ms 안 재입력을 더블클릭 의심으로 셈
+- [마이크 테스트](https://device.factpane.com/%EB%A7%88%EC%9D%B4%ED%81%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8/): 입력 레벨, 5초 녹음, 스피커·이어폰 좌우
+- [웹캠 테스트](https://device.factpane.com/%EC%9B%B9%EC%BA%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8/): 해상도, 카메라 보고 프레임과 실측 프레임
+- [게임패드 테스트](https://device.factpane.com/%EA%B2%8C%EC%9E%84%ED%8C%A8%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8/): 버튼·트리거·스틱, 손 뗀 3초 동안 중심에서 10% 이상이면 쏠림 의심, 진동, 닌텐도·소니 수리비·보증
+- [CPS 테스트](https://device.factpane.com/cps-%ED%85%8C%EC%8A%A4%ED%8A%B8/): 1·5·10초 클릭 속도(초당 클릭 수)
+
+## 제조사 기준
+
+- [모니터 불량화소 교환 기준](https://device.factpane.com/%EB%AA%A8%EB%8B%88%ED%84%B0-%EB%B6%88%EB%9F%89%ED%99%94%EC%86%8C-%EA%B5%90%ED%99%98-%EA%B8%B0%EC%A4%80/): 제조사 12곳의 공식 기준, 출처와 확인일 포함
+- [OLED 번인 보증과 빛샘 기준](https://device.factpane.com/OLED-%EB%B2%88%EC%9D%B8-%EB%B9%9B%EC%83%98-%EA%B8%B0%EC%A4%80/): OLED 번인 보증 기간과 빛샘·IPS 글로우 공식 입장
+- [키보드·마우스 보증 기간](https://device.factpane.com/%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EB%B3%B4%EC%A6%9D%EA%B8%B0%EA%B0%84/): 브랜드 7곳
